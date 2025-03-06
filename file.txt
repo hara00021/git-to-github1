@@ -1,1 +1,1 @@
-Hi students! (to write this - in git bash - vi filename - then vi editor will be opened - press i for insert or type anything - then type anything - then to save  - press esc - then : wq!(write & quit) then press enter)  
+Hi students! (to write this - in git bash - vi filename - then vi editor will be opened - press i for insert or type anything - then type anything - then to save  - press esc - then : wq!(write & quit) then press enter)-    HELLO WORLD! 
